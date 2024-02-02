@@ -1,0 +1,122 @@
+@charset "UTF-8";
+
+.amarillo {
+	background-color: lightgoldenrodyellow;
+}
+
+.fondorojo {
+	background-color: palevioletred;
+}
+
+h2 {
+	margin-left: 35%;
+	margin-top: 3rem;
+	color: skyblue;
+}
+
+img {
+	border-radius: 100%;
+	text-align: center;
+}
+
+div {
+	background-color: coral;
+}
+
+.marron {
+	text-align: center;
+	background-color: burlywood;
+}
+
+nav {
+
+	border: solid 1px;
+	margin-left: 40%;
+	width: 20%;
+	color: white;
+}
+
+.select {
+	margin-left: 30%;
+
+}
+
+.hr {
+	background-color: blue;
+	height: 5px;
+
+}
+
+h3 {
+	text-align: center;
+}
+
+.izquierda {
+	width: 35%;
+	float: left;
+
+}
+
+.centro {
+	text-align: center;
+}
+
+.derecha {
+	width: 35%;
+	float: right;
+
+}
+
+.tabla2 {
+	border: skyblue solid 1px;
+}
+
+.anchura {
+	width: 40%;
+}
+
+/*p2*/
+
+/*.fondorojo {
+	background-color: palevioletred;
+}
+
+h2 {
+	margin-left: 30%;
+	margin-top: 3rem;
+	color: skyblue;
+}
+
+img {
+	border-radius: 100%;
+	text-align: center;
+}
+
+div {
+	background-color: coral;
+}
+
+.marron {
+	text-align: center;
+	background-color: burlywood;
+}
+
+nav {
+
+	border: solid 1px;
+	margin-left: 40%;
+	width: 20%;
+	color:white;
+}
+.tabla2{
+	border: skyblue solid 1px;
+}
+.anchura{
+	width: 40%;
+}
+.amarillo {
+	background-color: lightgoldenrodyellow;
+}
+
+
+*/
